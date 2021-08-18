@@ -12,7 +12,7 @@ Today I constatly find myself hooked on coming up with challenging new projects 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&count_private=true&theme=dark)
+![Durhamsters' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&count_private=true&theme=dark)
 
 ## ⚙️ Tools:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
