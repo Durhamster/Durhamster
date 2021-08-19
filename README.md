@@ -6,6 +6,9 @@ A couple of years ago I taught myself to code so I could automate all the boring
 
 Today I constantly find myself coming up with challenging new projects that combine my love for coding and history.
 
+
+![](https://komarev.com/ghpvc/?username=Durhamster&style=flat-square)
+
 ## 🌐 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
