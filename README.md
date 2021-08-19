@@ -4,7 +4,7 @@ I’m Durhamster
 
 A couple of years ago I taught myself to code so I could automate all the boring stuff in my old job. Next thing I knew, I was hooked.
 
-Today I constatly find myself hooked on coming up with challenging new projects that combines my love for coding and history.
+Today I constantly find myself coming up with challenging new projects that combine my love for coding and history.
 
 ## 🌐 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
