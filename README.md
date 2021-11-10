@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 </div>
 
-I’m Tom.
+Hi I’m Tom.
 
 A couple of years ago I taught myself to code so I could automate all the boring stuff in my old job. Next thing I knew, I was hooked.
 
