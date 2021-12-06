@@ -31,6 +31,10 @@ Today I constantly find myself coming up with challenging new projects that comb
 ## 😺 Find me on:
 <a href="https://in.linkedin.com/in/tom-durham/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a>   <a href="https://twitter.com/durhamster" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/durhamster"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="durhamster" /></a></p><br><br>
+
 <!-- links to sources
 
 Badges:
