@@ -15,7 +15,7 @@ Today I constantly find myself coming up with challenging new projects that comb
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Durhamster's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&theme=dark)
+![Durhamster's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&theme=dark&layout=compact)
 
 ## ⚙️ Tools
 
