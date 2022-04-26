@@ -1,5 +1,6 @@
-# ![Hello There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
+<div align="center">
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="alt text" title="image Title" height="180"/>
+</div>
 I’m Durhamster
 
 A couple of years ago I taught myself to code so I could automate all the boring stuff in my old job. Next thing I knew, I was hooked.
@@ -16,7 +17,7 @@ Today I constantly find myself coming up with challenging new projects that comb
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-![Durhamster's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&theme=dark&layout=compact)
+![Durhamster's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Durhamster&theme=dark&layout=compact&langs_count=6)
 
 ## ⚙️ Tools
 
