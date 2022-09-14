@@ -3,7 +3,7 @@
 </div>
 I’m Durhamster
 
-A couple of years ago I taught myself to code so I could automate all the boring stuff in my old job. Next thing I knew, I was hooked.
+ A few of years ago, I taught myself python to better understand and visualize the data I was working with. Next thing I knew, I was hooked.
 
 Today I constantly find myself coming up with challenging new projects that combine my love for coding, sports, and history.
 
